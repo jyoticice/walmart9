@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.walmart.com/ip/Intex-Queen-22-Raised-Downy-Airbed-Mattress-with-Built-in-Electric-Pump/20927117");
 die();
 ?>
